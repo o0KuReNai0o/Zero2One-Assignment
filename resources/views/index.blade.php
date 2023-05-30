@@ -14,11 +14,14 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <!-- Styles -->
     <style>
-
+        body {
+            padding-bottom: 5rem;
+        }
     </style>
 </head>
 
 <body id="app">
     <search-box-component></search-box-component>
 </body>
+
 </html>
